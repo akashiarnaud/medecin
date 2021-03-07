@@ -2,11 +2,13 @@
 
 Cette application est la partie patient du projet
 
-Equipe : 
-Adrien GRAMPONE
-Arnaud RANDRIANASOLO
-Safia LOUNAS
-Tomasz SLABICKI
+Equipe :
+<ul>
+</ul>
+<li>Adrien GRAMPONE</li>
+<li>Arnaud RANDRIANASOLO</li>
+<li>Safia LOUNAS</li>
+<li>Tomasz SLABICKI</li>
 
 ## fonctionnalité
 L'application permet de prendre rendez-vous avec un médecin, en choisissant une date et une heure précise et selon la disponibilité du médecin en question
