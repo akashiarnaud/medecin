@@ -3,7 +3,7 @@
 Cette application est la partie patient du projet
 
 ## difficulté
-Pas de système de Login, donc pour l'instant suppose qu'il n'y a que 1 seul patient qui peut prendre rendez vous chez plusieurs médecin (lib/main.dart ligne 300)
+Pas de système de Login, donc pour l'instant on suppose qu'il n'y a que 1 seul patient qui peut prendre rendez vous chez plusieurs médecin (lib/main.dart ligne 300)
 ```dart
 'idPatient': 1,
 ```
