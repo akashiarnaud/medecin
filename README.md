@@ -1,4 +1,4 @@
-# medecin
+# Patient
 
 Cette application est la partie patient du projet
 
