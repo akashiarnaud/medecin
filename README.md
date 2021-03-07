@@ -8,8 +8,8 @@ Pas de système de Login, donc pour l'instant suppose qu'il n'y a que 1 seul pat
 'idPatient': 1,
 ```
 
-Sur la partie calendrier, on a pas réussi à gerer l'intervalle des minutes pour que ça soit toute les heures ou toutes les minutes.
+Sur la partie calendrier, on a pas réussi à gerer l'intervalle entre les rendez-vous pour que ça soit toute les heures ou toutes les minutes.
 On a utilisé la librairie https://pub.dev/packages/flutter_datetime_picker pour datetimepicker
-Pas de gestion des weekeeds et jour férié non plus
+Pas de gestion des weekeends et des jours fériés non plus, par manque de temps, mais on pouvait faire les différents gestion des dates via la même librairie en utilisant la fonction showDateTimePickerCustom au lieu de showDateTimePickerCustom
 
 
