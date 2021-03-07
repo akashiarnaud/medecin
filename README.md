@@ -2,6 +2,9 @@
 
 Cette application est la partie patient du projet
 
+## fonctionnalité
+L'application permet de prendre rendez-vous avec un médecin, en choisissant une date et une heure précise et selon la disponibilité du médecin en question
+
 ## difficulté
 Pas de système de Login, donc pour l'instant on suppose qu'il n'y a que 1 seul patient qui peut prendre rendez vous chez plusieurs médecin (lib/main.dart ligne 300)
 ```dart
